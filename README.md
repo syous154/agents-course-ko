@@ -1,6 +1,6 @@
 # Hugging Face Agents Course (한국어 번역판)
 
-이 저장소는 Hugging Face의 **[Agents Course](https://github.com/huggingface/agents-course)**를 한국어로 번역한 내용입니다. 원본 레포를 기반으로 번역 및 정리하여, 한국어 사용자들이 보다 쉽게 접근하고 학습할 수 있도록 구성했습니다.
+이 저장소는 Hugging Face의 [**Agents Course**](https://github.com/huggingface/agents-course)를 한국어로 번역한 내용입니다. 원본 레포를 기반으로 번역 및 정리하여, 한국어 사용자들이 보다 쉽게 접근하고 학습할 수 있도록 구성했습니다.
 
 ## ​ 원본 저장소
 
